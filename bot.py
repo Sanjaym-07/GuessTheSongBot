@@ -1,5 +1,5 @@
 import json
-
+import numpy as np,pandas as pd
 import discord
 from discord.ext import commands
 
