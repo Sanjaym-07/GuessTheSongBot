@@ -8,7 +8,7 @@ with open("config.json") as f:
 
 TOKEN = config["DISCORD_TOKEN"]
 BOT_ID = config["DISCORD_BOT_ID"]
-
+#This is to perform a test for git command.
 bot = commands.Bot(
     command_prefix=None,
     help_command=None,
